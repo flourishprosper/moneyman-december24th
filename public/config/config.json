@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0xdf7d5eBbf0a658B548D3562C238CbeE4ccFfe957",
+  "SCAN_LINK": "https://rinkeby.etherscan.io/token/0xdf7d5eBbf0a658B548D3562C238CbeE4ccFfe957",
+  "NETWORK": {
+    "NAME": "Ethereum Mainnet",
+    "SYMBOL": "ETH",
+    "ID": 1
+  },
+  "NFT_NAME": "December 24th",
+  "SYMBOL": "NFT",
+  "MAX_SUPPLY": 1000,
+  "WEI_COST": 50000000000000000,
+  "DISPLAY_COST": 0.05,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/money-man-music",
+  "SHOW_BACKGROUND": false
+}
