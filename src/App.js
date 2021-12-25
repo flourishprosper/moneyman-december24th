@@ -225,7 +225,7 @@ function App() {
                 fontWeight: 900,
                 color: "var(--accent-text)",
               }}
-            > Money Man "December 24th"
+            > Money Man "December 24"
             </s.TextTitle>
             <s.TextTitle
               style={{
